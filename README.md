@@ -1,14 +1,18 @@
 # TableHeaderView
 
-This extension is used for resizing the height of tableHeaderView to fit content by using autolayout.
+This extension `UITableView+HeaderView` is used for resizing the height of tableHeaderView to fit content with autolayout.
 
 ![TableHeaderView](Screenshots/example.png)
 
-## How to use
+## Usage
 
 ```objc
 tableView.sizeHeaderToFit()
 ```
+
+## Installation
+
+* Only need to drag `UITableView+HeaderView.swift` into Project Navigator of your application's Xcode project.
 
 ## Author
 
