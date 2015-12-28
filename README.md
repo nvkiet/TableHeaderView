@@ -1,6 +1,6 @@
 # TableHeaderView
 
-This extension is used for resizing the height of tableHeaderView to fit the content by using autolayout.
+This extension is used for resizing the height of tableHeaderView to fit content by using autolayout.
 
 ![TableHeaderView](Screenshots/example.png)
 
