@@ -12,7 +12,7 @@ tableView.sizeHeaderToFit()
 
 ## Installation
 
-* Only need to drag `UITableView+HeaderView.swift` into Project Navigator of your application's Xcode project.
+Only need to drag `UITableView+HeaderView.swift` into Project Navigator of your application's Xcode project.
 
 ## Author
 
